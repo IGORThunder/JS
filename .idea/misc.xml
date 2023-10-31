@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/Base/Mod2/pom.xml" />
         <option value="$PROJECT_DIR$/Buns/mod1/pom.xml" />
+        <option value="$PROJECT_DIR$/Buns/mod2/pom.xml" />
+        <option value="$PROJECT_DIR$/Buns/mod3/pom.xml" />
+        <option value="$PROJECT_DIR$/Buns/mod4/pom.xml" />
       </list>
     </option>
   </component>
