@@ -9,9 +9,11 @@
         <module name="mod5" />
         <module name="mod4" />
         <module name="mod3" />
-        <module name="mod1" />
         <module name="mod2 (2) (com.example)" />
+        <module name="mod7" />
         <module name="Mod2 (1) (org.example)" />
+        <module name="mod6" />
+        <module name="mod1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
